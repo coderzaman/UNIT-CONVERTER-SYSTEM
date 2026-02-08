@@ -57,10 +57,8 @@ A comprehensive command-line application developed as a Software Development I u
     ```
 
 ## 📸 Screenshots
+#### **Time Conversion**
 <img width="847" height="502" alt="image" src="https://github.com/user-attachments/assets/24bd2dd6-7851-4d4c-b8f6-bc6c9e3b0a49" />
-
-**Time Conversion **
-
 <img width="753" height="712" alt="image" src="https://github.com/user-attachments/assets/514d8658-03a2-4858-bd79-54feb82a81ca" />
 <img width="780" height="472" alt="image" src="https://github.com/user-attachments/assets/b30809c2-3e91-4cc0-b527-d44906fe4fc6" />
 
